@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-80 -90 160 180" width="512" height="576">
   <title>The Automationist Project — glyph</title>
-  <desc>An inverted A composed of hollow cells connected by a mesh of lines that terminate at each cell's perimeter. Each cell is a bounded entity; coordination happens at the boundary.</desc>
-  <g fill="none" stroke="#111111" stroke-linecap="round">
-    <!-- Mesh lines (stroke-width 1, opacity 0.75) -->
+  <desc>An inverted A composed of hollow cells connected by a mesh of lines that terminate at each cell's perimeter. Theme-adaptive variant using currentColor.</desc>
+  <g fill="none" stroke="currentColor" stroke-linecap="round">
     <g stroke-width="1" opacity="0.75">
       <line x1="-53.68" y1="-54.24" x2="-2.82" y2="-19.44"/>
       <line x1="-50.12" y1="-55.05" x2="30.50" y2="-19.95"/>
@@ -22,7 +21,6 @@
       <line x1="3.28" y1="-12.69" x2="14.72" y2="20.69"/>
       <line x1="30.36" y1="-12.45" x2="-14.23" y2="20.76"/>
     </g>
-    <!-- Structural lines (stroke-width 2) - legs broken into segments, crossbar broken around c2 -->
     <g stroke-width="2">
       <line x1="-52.53" y1="-54.53" x2="-36.76" y2="-19.56"/>
       <line x1="-32.64" y1="-10.44" x2="-19.65" y2="18.35"/>
@@ -33,7 +31,6 @@
       <line x1="-29.7" y1="-15" x2="-4" y2="-15"/>
       <line x1="4" y1="-15" x2="29.7" y2="-15"/>
     </g>
-    <!-- Hollow cells -->
     <g stroke-width="1.5">
       <circle cx="-55" cy="-60" r="6"/>
       <circle cx="-27" cy="-60" r="2.5"/>
@@ -46,7 +43,6 @@
       <circle cx="-18" cy="22" r="4"/>
       <circle cx="18" cy="22" r="4"/>
     </g>
-    <!-- Apex seed cell (stroke-width 2) -->
     <circle cx="0" cy="62" r="8" stroke-width="2"/>
   </g>
 </svg>
