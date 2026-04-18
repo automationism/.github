@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/automationism/.github/main/profile/glyph.svg" width="160" alt="Automationism glyph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/automationism/.github/main/profile/glyph-light.svg">
+    <img src="https://raw.githubusercontent.com/automationism/.github/main/profile/glyph.svg" width="160" alt="Automationism glyph">
+  </picture>
 </p>
 
 <h1 align="center">Automationism</h1>
