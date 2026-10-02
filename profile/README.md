@@ -22,12 +22,12 @@ Automationism is an economic framework for a world where intelligent machines ca
 
 In capitalism, the end game is for individuals and companies to acquire as much capital as possible, which leads to the elimination of human positions in order to reduce costs, without consideration to the lives that are impacted. This is not a future we should accept without question or wait for someone else to find a solution. We have the ability to build a better outcome, but we (the people interested in avoiding such an inequitable future) must first collectively decide what alternative to work toward.
 
-Automationism's end game is long term sustainability and communal wellbeing, reorganizing the incentive structure to prioritize human quality of life over the abstraction of it (that being capital). The framework proposes organizing economic activity around cells, worker cooperative groups where people collectively own and govern automated production systems through direct democracies enabled by technology. Cells coordinate and trade with each other through decentralized networks, without a central authority directing the whole. The goal is not to eliminate markets or private property, but to offer a third option alongside capitalism and socialism that takes advantage of what AI makes newly possible.
+Automationism's end game is long term sustainability and communal wellbeing, reorganizing the incentive structure to prioritize human quality of life over the abstraction of it (that being capital). The framework proposes organizing economic activity around cells, worker cooperative groups where people collectively own and govern automated production systems through direct democracies enabled by technology. Cells coordinate and trade with each other through decentralized networks, without a central authority directing the whole. The goal is not to eliminate markets or private property, but to offer a third option alongside capitalism and socialism that takes advantage of what AI and communications technology makes newly possible.
 
-By treating economic inequality as a technical/engineering challenge, rather than a moral problem, perhaps we can create the next generation of socio-economic systems that drive desired behavior by design, rather than revolution or brute force. 
+By treating economic inequality as a technical/engineering challenge, rather than a moral problem, perhaps we can create the next generation of socio-economic systems that drive cooperative behavior by design, rather than through mandates or revolution. 
 
 
-## About this organization
+## About this GitHub organization
 
 This organization is where the framework's technical designs, protocol drafts, and open documentation live. Over time, the intent is to add open source projects that support the initiative for automationist cells to collaborate over communal networks. This type of development is some years away, but the foundational designs can be ironed out now while AI and robotics move closer to replacing the need for human labor. 
 
